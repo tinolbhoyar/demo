@@ -1,0 +1,8 @@
+Change 1
+<<<<<<< HEAD
+Change2
+Change3 
+=======
+Change 2
+Change 3
+>>>>>>> bug123
